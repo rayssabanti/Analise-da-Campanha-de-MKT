@@ -40,9 +40,17 @@ Criei uma tabela no PowerBI chamada Calendário para adicionar nas análises:
 ![image](https://user-images.githubusercontent.com/61653788/160027283-e5c97c6c-e81f-406c-89ce-edbece0c6add.png)
 
 ## :bar_chart:	 Dashboard
-![image](https://user-images.githubusercontent.com/61653788/160205442-2199e038-4c97-403f-bebb-7da127541161.png)
+![image](https://user-images.githubusercontent.com/61653788/160298687-6a673410-935c-498e-a5b1-22da3286b022.png)
+
 
 * :brain: **Qual foi o total de compras efetuadas?**
+
+| Fórmula  | Resultado |
+| ------------- | ------------- |
+| Total Investido / Compras | ![image](https://user-images.githubusercontent.com/61653788/160298702-c4e87a9f-2985-40cd-a623-36e82997f9ec.png) |
+
+
+* :brain: **Qual foi o CPA?**
 
 | Fórmula  | Resultado |
 | ------------- | ------------- |
@@ -105,3 +113,13 @@ Criei uma tabela no PowerBI chamada Calendário para adicionar nas análises:
 | Valores: Visualização por página, Adicionados ao carrinho, checkouts realizados, Compras | ![image](https://user-images.githubusercontent.com/61653788/160207148-c9da2e45-dc0a-4058-ad3f-73670c20cc8a.png)|
 
 
+## :pushpin:	 O que foi aplicado?
+* Manipulação de dados e limpeza de dados utilizando o SQL SERVER
+* Análise e criação de visualizações de dados no Powerbi 
+* Aplicação de métricas focadas no Marketing Digital:
+  * **CPA - Custo por Aquisição:** O quanto custou para a empresa cada aquisição.
+  * **Taxa de conversão:** A porcentagem de pessoas convertidas após ver o anúncio.
+  * **Custo por Clique:** O quanto que foi cobrado pelas plataformas de anúncio por clique.
+  * **Jornada de compra:** O caminho que um potencial cliente percorre antes de realizar uma compra.
+  * **Roas:** Gasto que a empresa tem sobre os anúncios pagos e o seu retorno. 
+  * **Ticket Médio:** representa o valor médio gasto por cliente.
